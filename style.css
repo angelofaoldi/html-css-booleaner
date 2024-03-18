@@ -12,3 +12,14 @@ header {
     background-color: rgba(78, 160, 255, 30)
   }
   
+main {
+    margin-top: 20px;
+}
+
+.timimginfo {
+
+}
+
+p span {
+    background-color: yellow;
+}
