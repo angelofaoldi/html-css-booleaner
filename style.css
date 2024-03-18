@@ -23,3 +23,7 @@ main {
 p span {
     background-color: yellow;
 }
+
+footer h2 {
+    color: grey;
+}
